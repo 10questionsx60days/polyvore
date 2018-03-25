@@ -25,7 +25,7 @@ SECRET_KEY = 'gwslj_78m+sdnb=+-cz48@(g@d+y%t88_o4w6==q1itz$+zjc0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['35.202.171.199']
 
 
 # Application definition
